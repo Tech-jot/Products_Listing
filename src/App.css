@@ -1,0 +1,55 @@
+.child1 {
+  width: 50vw;
+}
+
+.child2 {
+  background-color: whitesmoke;
+  width: 50vw;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+
+#d-flex {
+  border: 2px solid grey;
+}
+
+.container {
+  border-radius: 5px;
+  margin: 20px 0px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.main-heading2 {
+  background-color: aquamarine;
+  color: white;
+  padding: 9px;
+}
+
+#data {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.title {
+  padding: 25px;
+}
+.btn {
+  align-items: center;
+}
+.main-heading {
+  background-color: rgb(11, 161, 158);
+  color: white;
+}
+.container-1 {
+  background-color: rgb(171, 71, 104);
+  height: 50vh;
+  background-position: center;
+  background-image: url("./Components/Myimg.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
